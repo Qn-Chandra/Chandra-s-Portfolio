@@ -5,4 +5,4 @@
 ### pros and cons of thr projects i have done and challenges i faced during the completeion of the project
 ### i also showcased my soft skill and the area of interests 
 ### hope you will like it
-![Home Page](Screenshots/portfolio1.png)
+![Home Page](portfolio1.png)
