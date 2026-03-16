@@ -6,4 +6,4 @@
 ### i also showcased my soft skill and the area of interests 
 ### hope you will like it
 ![Home Page](portfolio1.png)
-![Home Page](portfolio1.png)
+![Home Page](Screenshot(573).png)
